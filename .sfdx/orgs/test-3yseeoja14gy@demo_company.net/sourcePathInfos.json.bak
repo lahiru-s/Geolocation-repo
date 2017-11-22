@@ -268,14 +268,14 @@
     [
         "C:\\Users\\lasubasinghe\\Desktop\\sfdx\\bin\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\lasubasinghe\\Desktop\\sfdx\\bin\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
+            "size": 160,
+            "modifiedTime": 1511349558315,
+            "changeTime": 1511349558315,
+            "contentHash": "2de78ead08526651fbae3c0510724f831b6f034c",
             "isMetadataFile": false,
-            "size": 189,
-            "modifiedTime": 1511351325027,
-            "changeTime": 1511351325027,
-            "contentHash": "c3bfd5b53e0049718fe121b7fa3b8480ce3887da"
+            "state": "u"
         }
     ],
     [
@@ -463,14 +463,14 @@
     [
         "C:\\Users\\lasubasinghe\\Desktop\\sfdx\\bin\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\lasubasinghe\\Desktop\\sfdx\\bin\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1511350600726,
             "changeTime": 1511350600726,
-            "contentHash": "4f24db69c5ae1c0a8c69709582e99cf34977e2e5",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "4f24db69c5ae1c0a8c69709582e99cf34977e2e5"
         }
     ],
     [
